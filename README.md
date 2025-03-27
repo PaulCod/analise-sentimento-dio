@@ -22,16 +22,13 @@ A ia consegui detectar que o texto faz tanto elogios quanto criticas a obra, o q
 ![](/img/terceira-sentenca-part1.png)
 ![](/img/terceira-sentenca-part2.png)
 
-Nessa sentença, meu objetos foi fazer um elogio ao estabelecimento, e podemos ver que a ia detectou 100% de sentimento positivo, e destaca ambiente hospitaleiro, comida boa e natureza linda com sentença positivas,
-além da opnião sobre os funcionarios
-também ser positiva
+Nessa sentença, meu objetivo foi fazer um elogio ao estabelecimento, e podemos ver que a IA detectou 100% de sentimento positivo e destaca o ambiente hospitaleiro, a comida boa e a natureza linda com sentenças positivas, além da opinião sobre os funcionários também ser positiva. No geral, esse estabelecimento pode concluir, graças à IA, quais são os pontos fortes de seus serviços.
 
-no geral esse estabelecimento pode concluir, graças a ia quais são os pontos fortes de seus serviços
 
 
 ## Quarta sentenca
 ![](/img/quarta-s.png)
-Essa sentença acredito que a ia falhou em detectar o sentimento principal da sentença, observe que o usuário disse que não gostou do filme mas a análise de sentimento feita pela ia deu 100% de sentimento positivo, o que nos mostra que embora esteja evoluindo ainda falta para ela ter 100% de acertividade 
+Acredito que, nesta sentença, a IA falhou em detectar o sentimento principal. Observe que o usuário expressou que não gostou do filme, mas a análise de sentimento realizada pela IA classificou o texto como 100% positivo. Isso demonstra que, embora a tecnologia esteja em evolução, ainda há limitações para alcançar 100% de assertividade.
 
 ## Quinta sentenca
 ![](/img/quinta-sentenca.png)
