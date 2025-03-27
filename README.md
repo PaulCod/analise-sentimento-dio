@@ -3,9 +3,20 @@
 ## Primeira sentenca
 ![](/img/primeira-sentenca.png)
 
+Essa primeira sentença teve a intenção de colocar algo extremamente negativo, no qual a principal sentença identificada pela ferramenta Azure é "A comida é horrível", e destacou "comida" como alvo da opinião. A IA reconheceu que a sentença teve 100% de confiança no sentimento negativo.
+
+
+Com base nesses insights, o estabelecimento pode adotar medidas para melhorar a qualidade e mitigar os danos que esse tipo de avaliação pode causar.
+
 ## Segunda sentenca
 ![](/img/segunda-sentenca-part1.png)
 ![](/img/segunda-sentenca-part2.png)
+
+Nesta segunda sentença, tive a ideia de falar sobre um livro, destacando tanto pontos positivos quanto negativos da obra. A ferramenta do Azure classificou o sentimento como 43% positivo, 1% neutro e 56% negativo. A principal sentença identificada pela IA foi "narrativa intrigante".
+
+
+A ia consegui detectar que o texto faz tanto elogios quanto criticas a obra, o que mostra que ela é capaz de detectar esses sentimentos na analise, o que pode ser muito ultil
+
 
 ## Terceira sentenca
 ![](/img/terceira-sentenca-part1.png)
